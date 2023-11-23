@@ -4,6 +4,9 @@ import useFetch from './hooks/useFetchReducer';
 
 import './style.css';
 
+//Tutorial :https://www.youtube.com/watch?v=Y_5bfHlX9l8
+
+
 //const BASE_URL = "https://reqres.in/api/users/";
 const BASE_URL = 'https://inshortsapi.vercel.app/news?category=all';
 
